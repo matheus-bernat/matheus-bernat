@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently finishing my studies in Computer Science & Engineering at Linköping university, on exchange at EPFL.
-- ⚡ I'm interested in computer vision, machine learning, charity and AI ethics.
-- :eyes: I'm currently searching for a company or university where I will do my master thesis project.
+- 🌱 Currently on year-exchange at EPFL, on last year of masters in Computer Science & Engineering at Linköping university.
+- ⚡ Interested in computer vision, signal processing, machine learning and AI ethics.
+- :eyes: Searching for a company or university where I will do my master thesis project during Fall 2022.
 - :book: See my GitHub website at [https://matheus-bernat.github.io/](https://matheus-bernat.github.io/).

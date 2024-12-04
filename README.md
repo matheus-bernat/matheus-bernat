@@ -9,7 +9,7 @@
 - [LinkedIn](https://www.linkedin.com/in/matheus-bernat/)
 - [Website](https://matheus-bernat.github.io/) (not updated) 
 
-### Project highlights
+### 🔨 Project highlights
 - **(2024-ongoing)** [Dagens läsningar](http://dagenslasningar.se/). App for the daily readings in the catholic mass, with over 1200 download (Dec 24). Available for [Apple](https://apps.apple.com/se/app/dagens-l%C3%A4sningar/id6504030217) and [PlayStore](https://play.google.com/store/apps/details?id=com.dagenslasningar.app&hl=sv). 
 - **(Fall 2022)** [Topical classification of Wikipedia images](https://github.com/epfl-dlab/wiki_image_classification). I studied neural network training techniques for labeling Wikipedia images with custom labels with heavy class imbalance. Collaboration between [dlab](https://dlab.epfl.ch/) at EPFL and [Wikimedia Research](https://research.wikimedia.org/).
 - **(Spring 2022)** [From attention to convolution: a survey on OoD detection](https://matheus-bernat.github.io/epfl-vis/).

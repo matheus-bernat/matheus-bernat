@@ -1,8 +1,7 @@
 ### 👋 Hi there, I'm Matheus Bernat
 - 👷‍♂️ Application engineer at [SICK Linköping](https://career.sicklinkoping.se/). Working with 2D and 3D cameras in the Machine Vision industry.
-- 🎓 MSc in AI and ML at Linköping University and EPFL.
-- 🎓 BSc in Computer engineering at Linköping University.
-- ✨ Trying to do a [svensk klassiker](https://ensvenskklassiker.se/) during 2025!
+- 🎓 MSc in AI and ML at Linköping University and EPFL, and BSc in Computer engineering at Linköping University.
+- 🏃 Trying to do a [svensk klassiker](https://ensvenskklassiker.se/) during 2025!
 - See my GitHub website at [https://matheus-bernat.github.io/](https://matheus-bernat.github.io/) (not updated).
 
 ### 📭 Let's connect!

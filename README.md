@@ -10,7 +10,7 @@ At the moment I have 3 research directions:
   3. Vision-language action models (RGB to depth, LIBERO, few-shot transfer)
 
 ### 📭 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/matheus-bernat/), email: [matheus.bernat@liu.se](mailto:matheus.bernat@liu.se)
+- [LinkedIn](https://www.linkedin.com/in/matheus-bernat/), email: matheus.bernat@liu.se.
 
 ### 🔨 Project highlights
 - **(2024-ongoing)** [Dagens Läsningar](http://dagenslasningar.se/). App for the daily readings in the catholic mass, with over 2000 downloads (Jul 1). Available for [Apple](https://apps.apple.com/se/app/dagens-l%C3%A4sningar/id6504030217) and [PlayStore](https://play.google.com/store/apps/details?id=com.dagenslasningar.app&hl=sv). 

@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Matheus Bernat
-- 👷‍♂️ Industrial PhD student at Linköping University and SICK, funded by [WASP](https://wasp-sweden.org/).
-- 🎓 MSc in AI and ML at Linköping University and EPFL.
+- 👷‍♂️ Industrial PhD student at Linköping University and [SICK](https://www.sick.com/se/en/), funded by [WASP](https://wasp-sweden.org/).
+- 🎓 MSc in AI and ML at [Linköping University](https://liu.se/) (Sweden) and [EPFL](https://www.epfl.ch/en/) (Switzerland).
 - See my GitHub website at [https://matheus-bernat.github.io/](https://matheus-bernat.github.io/).
 
 ### Research interests

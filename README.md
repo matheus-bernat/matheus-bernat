@@ -1,8 +1,13 @@
 ### 👋 Hi there, I'm Matheus Bernat
-- 👷‍♂️ Application engineer at [SICK Linköping](https://career.sicklinkoping.se/). Working with 2D and 3D cameras in the Machine Vision industry.
-- 🎓 MSc in AI and ML at Linköping University and EPFL, and BSc in Computer engineering at Linköping University.
-- 🏃 Trying to do a [svensk klassiker](https://ensvenskklassiker.se/) during 2025!
-- See my GitHub website at [https://matheus-bernat.github.io/](https://matheus-bernat.github.io/) (not updated).
+- 👷‍♂️ Industrial PhD student at Linköping University and SICK, funded by [WASP](https://wasp-sweden.org/).
+- 🎓 MSc in AI and ML at Linköping University and EPFL.
+- See my GitHub website at [https://matheus-bernat.github.io/](https://matheus-bernat.github.io/).
+
+### Research interests
+At the moment I have 3 research directions:
+1. Use language to boost the performance of vision models (VLMs, SAEs, CBMs, steerable ViTs)
+  2. JEPA on multi-channel 2D + 3D data (JEPA, distillation, multi-channel data)
+  3. Vision-language action models (RGB to depth, LIBERO, few-shot transfer)
 
 ### 📭 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/matheus-bernat/)
